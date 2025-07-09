@@ -26,7 +26,6 @@ This project applies deep learning to grade the severity of **Knee Osteoarthriti
 5. Fine-tune and evaluate performance
 
 ## 📈 Results
-- Accuracy: ~XX% (to be updated after training)
 - Evaluation: Confusion matrix, Precision, Recall
 
 ## 🚀 Future Improvements
